@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.question-container {
+    display: none;
+}
+#result {
+    display: none;
+}
+#restart-btn {
+    display: none;
+    margin-top: 20px;
+}
